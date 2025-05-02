@@ -92,6 +92,8 @@ The Film Search Application is a Python-based command-line tool that allows user
 - Ensure both databases are accessible and properly configured before running the application.
 - The Sakila database must include the `film`, `film_category`, and `category` tables.
 - Error handling is implemented for database connections, user input, and query execution.
+- Repository contains "whole_project" file with the whole code in one file. Also works to launch in the end of the code
+
 
 ## License
 
